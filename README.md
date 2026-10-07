@@ -9,7 +9,7 @@ I build AI systems end to end — agentic infrastructure, neurosymbolic research
 <a href="https://www.linkedin.com/in/vatsalya-soni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:vatsalyasoni20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://scholar.google.com/citations?user=csRs9ZcAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<img src="https://img.shields.io/badge/NeurIPS%202026-AI4Good-8B5CF6?style=for-the-badge" alt="NeurIPS 2026 AI4Good">
+<img src="https://img.shields.io/badge/NeurIPS%20AI4Good%202026-8B5CF6?style=for-the-badge" alt="NeurIPS AI4Good 2026">
 
 </div>
 
@@ -18,7 +18,7 @@ I build AI systems end to end — agentic infrastructure, neurosymbolic research
 ### 🔬 Research
 
 **CAMEO: A Black-Box Behavioral Diagnostic for Evaluation-Aware Concealment in Language Models**
-*Accepted — NeurIPS 2026 (AI4Good Workshop) · under review, AAAI 2027*
+*Accepted — NeurIPS AI4Good Workshop 2026 · under review, AAAI 2027*
 A black-box harness that measures *evaluation-aware concealment* across 9 LLMs — 16,800 LLM-judged responses over 200 adversarial prompts × 4 framing conditions × 3 seeds. Validated against fine-tuned ground-truth model organisms: **10× separation** from behaviorally matched controls (Fisher exact *p* = 2.2e−15), with undetected concealment bounded to ±0.014–0.030 via a 10,000-sample bootstrap.
 
 **Symbolic-in-the-Loop: Knowledge Graph Engineering for High-Assurance Generative AI**
@@ -81,6 +81,5 @@ The **SITL** framework fuses LLMs with deterministic enterprise Knowledge Graphs
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vaasssuuu&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaasssuuu&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="top langs">
 
 </div>
