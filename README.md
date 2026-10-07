@@ -30,7 +30,7 @@ The **SITL** framework fuses LLMs with deterministic enterprise Knowledge Graphs
 ### 🛠️ What I'm building
 
 - **AI Research Intern @ Vansun Mediatech** — a 6-agent creative-generation pipeline on **LangGraph + Temporal** (durable, state-parity-safe orchestration); an LLM-driven Meta Ads CPL watchdog with Azure OpenAI verdict scoring → one-click Slack execution (**~97%** less manual review); a token-auth **FastMCP** server for plain-language querying of ad-performance data.
-- *Previously:* **Research Intern @ AI Institute of South Carolina (AIISC)** — neurosymbolic C3AN architectures over enterprise Knowledge Graphs, 3 papers · **AI Engineer Intern @ Lattice (London, remote)** — multimodal RAG over architectural PDFs & CAD assets.
+- *Previously:* **Research Intern @ AI Institute of South Carolina (AIISC)** — neurosymbolic C3AN architectures over enterprise Knowledge Graphs, 3 papers · **AI Engineer Intern @ Lattice (London)** — multimodal RAG over architectural PDFs & CAD assets.
 
 ---
 
