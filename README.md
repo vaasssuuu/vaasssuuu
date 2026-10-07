@@ -75,11 +75,3 @@ The **SITL** framework fuses LLMs with deterministic enterprise Knowledge Graphs
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaasssuuu&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" alt="stats">
-
-</div>
